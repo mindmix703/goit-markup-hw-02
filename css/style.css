@@ -1,0 +1,22 @@
+.full-document {
+  font-family: "roboto";
+}
+.hero {
+  background-color: #2f303a;
+  width: 1600px;
+  height: 600px;
+  top: 80px;
+}
+.hero h1 {
+  background-color: #2f303a  
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 60px;
+  letter-spacing: 0.06em;
+  text-align: center;
+  color: #ffffff; 
+}
+.hero a {
+    color: white;
+    }
